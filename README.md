@@ -188,7 +188,7 @@ running:
 
 Cava is in [AUR](https://aur.archlinux.org/packages/cava/).
 
-    pacaur -S cava
+    yay -S cava
 
 #### Ubuntu
 
